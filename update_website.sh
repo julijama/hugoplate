@@ -14,7 +14,7 @@ else
   git add -A
   git commit -m "$1"
   git pull origin main
-  git push -u origin main
+  git push origin HEAD:main
 
   cd ..
   git add .
