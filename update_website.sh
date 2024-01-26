@@ -13,7 +13,7 @@ else
   cd public
   git add -A
   git commit -m "$1"
-  git pull
+  git pull origin main
   git push -u origin main
 
   cd ..
