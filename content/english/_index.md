@@ -1,53 +1,58 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Digital Brilliance: Mastering Products with Style!"
+  content: "Come on a digital journey with me! I'm your go-to for all things product management and design. Whether advising, owning, or deep-diving into product and UI/UX design, I'm here to turn ideas into digital magic. Let's create a digital utopia together! " 
+  
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Product Design"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Experience elevated design and seamless user experiences with our expert product design support for enhanced brand impact."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Prototyping: Develop interactive prototypes to visualize and test design concepts before implementation."
+      - "UI Design Systems: Implement and maintain UI design systems for consistent, scalable, and efficient design across platforms."
+      - "User Interface (UI) Design: Crafting visually appealing and intuitive interfaces that align with brand identity while prioritizing user interaction and engagement."
+      - "UX Audits: Assess and enhance user experience through detailed audits, identifying pain points and suggesting improvements."
+      - "User Testing: Conduct usability testing to gather valuable feedback and refine designs for optimal user satisfaction."
+      - "PPerformance Optimization: Optimize product performance, improving load times and overall responsiveness for a smoother user experience."
     button:
       enable: true
-      label: "Get Started Now"
+      label: "Let's collaborate!" 
+      link: "#"
+
+  - title: "Product Management"
+    image: "/images/service-2.png"
+    content: "Gain strategic leadership and efficient product development with our expert product management support for sustained business success."
+    bulletpoints:
+      - "MVP Strategy: Guide the creation of Minimum Viable Products for rapid testing and customer feedback, streamlining the path to a successful full-scale product."  
+      - "Agile Scaling: Implement agile methodologies to flexibly scale from MVP to a comprehensive product, adapting to evolving market needs."
+      - "Feedback-Driven Iteration: Establish continuous feedback loops to drive ongoing improvements and ensure the final product meets user expectations."
+      - "Vision-Aligned Roadmaps: Develop focused product roadmaps aligned with company vision and mission, ensuring a clear path from concept to success."
+      - "Competitive Advantage: Conduct regular competitor analyses to refine the product strategy, maintaining a competitive edge in the market."
+      - "Collaboration Efficiency: Foster cross-functional collaboration and conduct ceremonies to streamline communication and alignment among teams."
+      - "Data-Backed Decision-Making: Emphasize data-driven decisions throughout, guiding the product's success with informed choices and measurable outcomes."
+    button:
+      enable: true
+      label: "Let's collaborate!" 
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+  # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  #   image: "/images/service-3.png"
+  #   content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  #   bulletpoints:
+  #     - "Instantly load static sites for better user experience and SEO."
+  #     - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
+  #     - "Use any front-end library or framework, or build custom components, for any project size."
+  #     - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+  #   button:
+  #     enable: false
+  #     label: ""
+  #     link: ""
 ---
