@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Digital Brilliance: Mastering Products with Style!"
-  content: "Come on a digital journey with me! I'm your go-to for all things product management and design. Whether advising, owning, or deep-diving into product and UI/UX design, I'm here to turn ideas into digital magic. Let's create a digital utopia together! " 
+  title: "Transforming Ideas into Stunning Products & Features"
+  content: "Elevating experiences with seamless UI/UX design and innovative product management expertise. Let's transform your vision into reality together." 
   
   image: "/images/banner.png"
   button:
@@ -14,14 +14,13 @@ banner:
 features:
   - title: "Product Design"
     image: "/images/service-1.png"
-    content: "Experience elevated design and seamless user experiences with our expert product design support for enhanced brand impact."
+    content: "As a UI/UX designer, I craft personalized solutions prioritizing intuitive navigation and engaging design to elevate your brand." 
     bulletpoints:
-      - "Prototyping: Develop interactive prototypes to visualize and test design concepts before implementation."
-      - "UI Design Systems: Implement and maintain UI design systems for consistent, scalable, and efficient design across platforms."
-      - "User Interface (UI) Design: Crafting visually appealing and intuitive interfaces that align with brand identity while prioritizing user interaction and engagement."
-      - "UX Audits: Assess and enhance user experience through detailed audits, identifying pain points and suggesting improvements."
-      - "User Testing: Conduct usability testing to gather valuable feedback and refine designs for optimal user satisfaction."
-      - "PPerformance Optimization: Optimize product performance, improving load times and overall responsiveness for a smoother user experience."
+      - "User-Centric Research: Analyzing audience behaviors, preferences, and pain points for effective design."
+      - "Prototyping and Wireframing: Creating interactive models to visualize and iterate product structure and function."
+      - "Seamless Interaction Design: Designing intuitive interfaces for enhanced usability and satisfaction."
+      - "Visual Design Excellence: Crafting visually appealing interfaces reflecting brand identity with readability and accessibility in mind."
+      - "Usability Testing and Optimization: Gathering feedback for continuous improvement of user experience through thorough testing."
     button:
       enable: true
       label: "Let's collaborate!" 
@@ -29,15 +28,14 @@ features:
 
   - title: "Product Management"
     image: "/images/service-2.png"
-    content: "Gain strategic leadership and efficient product development with our expert product management support for sustained business success."
+    content: "As a product manager, I drive digital success through innovative strategies aligned with company goals and customer needs." 
     bulletpoints:
-      - "MVP Strategy: Guide the creation of Minimum Viable Products for rapid testing and customer feedback, streamlining the path to a successful full-scale product."  
-      - "Agile Scaling: Implement agile methodologies to flexibly scale from MVP to a comprehensive product, adapting to evolving market needs."
-      - "Feedback-Driven Iteration: Establish continuous feedback loops to drive ongoing improvements and ensure the final product meets user expectations."
-      - "Vision-Aligned Roadmaps: Develop focused product roadmaps aligned with company vision and mission, ensuring a clear path from concept to success."
-      - "Competitive Advantage: Conduct regular competitor analyses to refine the product strategy, maintaining a competitive edge in the market."
-      - "Collaboration Efficiency: Foster cross-functional collaboration and conduct ceremonies to streamline communication and alignment among teams."
-      - "Data-Backed Decision-Making: Emphasize data-driven decisions throughout, guiding the product's success with informed choices and measurable outcomes."
+      - "MVP Strategy: Guide MVP creation for rapid testing, streamlining product development."
+      - "Market Research: Provide comprehensive analysis of customer needs, trends, and competitors."
+      - "Feedback-Driven Iteration: Establish continuous feedback loops for ongoing improvements."
+      - "Vision-Aligned Roadmaps: Develop focused roadmaps aligned with company vision."
+      - "Competitive Advantage: Conduct regular competitor analyses to maintain market edge."
+     
     button:
       enable: true
       label: "Let's collaborate!" 
