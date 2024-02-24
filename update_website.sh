@@ -10,7 +10,7 @@ else
 
   npm run build
   
-  cd public
+  cd public 
   git add -A
   git commit -m "$1"
   git pull origin main
