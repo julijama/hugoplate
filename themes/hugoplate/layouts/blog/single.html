@@ -33,10 +33,10 @@
                 </a>
               {{ end }}
             </li>
-            <li class="mr-4 inline-block">
+            {{/*  <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
-            </li>
+            </li>  */}}
           </ul>
           <div class="content mb-10">
             {{ .Content }}
@@ -62,11 +62,11 @@
             </div>
           </div>
           <!-- comments -->
-          {{ if site.Config.Services.Disqus.Shortname }}
+          {{/*  {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
             </div>
-          {{ end }}
+          {{ end }}  */}}
         </article>
       </div>
 

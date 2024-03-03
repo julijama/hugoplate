@@ -15,7 +15,7 @@ logo_text = "JUMA"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
-theme_switcher = true
+theme_switcher = false
 theme_default = "light" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
@@ -52,7 +52,6 @@ show_description = true
 show_tags = true
 show_categories = true
 
-
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
@@ -60,7 +59,6 @@ keywords = ["UI/UX Design", "Product Management", "Product Owner"]
 description = "Julija Martinkutė"
 author = "Julija Martinkutė"
 image = "images/og-image.png"
-
 
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
@@ -83,7 +81,6 @@ button = "I Accept"
 [widgets]
 sidebar = ["categories", "tags"]
 
-
 # google map
 [google_map]
 enable = false
@@ -91,7 +88,6 @@ map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
-
 
 # Subscription
 [subscription]

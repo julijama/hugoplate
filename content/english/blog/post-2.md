@@ -1,18 +1,17 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Elegant Cosmetic eShop Experience"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Technology", "Data"]
-author: "Sam Wilson"
-tags: ["technology", "tailwind"]
+description: "eShop Experience"
+image: "/images/facewash-cover.png"
+categories: ["Application"]
+author: "Julija Martinkutė"
+tags: ["Prototype", "E-shop"]
 draft: false
 ---
 
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/facewash" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+An intuitive online beauty shop designed for a seamless browsing and purchasing experience, catering to all your cosmetic needs.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
