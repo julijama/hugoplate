@@ -71,6 +71,37 @@
       </div>
     </section>
   {{ end }}
+
+  {{ range $i, $e:= .Params.widefeatures }}
+    <section class="section-sm bg-gradient">
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div class="mb:md-0 md:order-2 md:col-12 mb-6">
+            {{ partial "image" (dict "Src" .image "Alt" "feature image") }}
+          </div>
+          <div
+            class="{{ if not (modBool $i 2) }}
+              md:order-1
+            {{ end }} md:col-7 lg:col-6">
+            <h2 class="mb-4">
+              {{ .title | markdownify }}
+            </h2>
+            <p class="mb-8 text-lg">
+              {{ .content | markdownify }}
+            </p>
+            <ul>
+              {{ range .bulletpoints }}
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  {{ . | markdownify }}
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
   <!-- /Features -->
 
   <!-- Testimonials -->
