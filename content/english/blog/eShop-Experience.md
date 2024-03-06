@@ -1,5 +1,5 @@
 ---
-title: "Elegant Cosmetic eShop Experience"
+title: "eShop Experience"
 meta_title: ""
 description: "eShop Experience"
 image: "/images/facewash-cover.png"
