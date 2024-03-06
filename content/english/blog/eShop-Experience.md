@@ -39,9 +39,5 @@ This project significantly contributed to my growth in areas like mobile-first d
 
 ### Additional material 
  
-
-
-<!-- ![Persona](/images/facewash-persona.png) -->
- 
 <img src="/images/facewash-persona.png" alt="drawing" width="750"/>
 

@@ -58,7 +58,7 @@ show_categories = true
 keywords = ["UI/UX Design", "Product Management", "Product Owner"]
 description = "Julija Martinkutė"
 author = "Julija Martinkutė"
-image = "images/og-image.png"
+image = "images/banner.png"
 
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications

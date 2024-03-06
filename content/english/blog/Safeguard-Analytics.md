@@ -63,6 +63,6 @@ In-depth user research highlighted the need for a platform that could adapt to v
 
 ### Additional material 
 
-![Persona](/images/Votura-Asset.png)
+<!-- ![Persona](/images/Votura-Asset.png) -->
  
-
+<img src="/images/Votura-Asset.png" alt="drawing"/>
