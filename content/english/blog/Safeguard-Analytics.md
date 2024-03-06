@@ -65,4 +65,4 @@ In-depth user research highlighted the need for a platform that could adapt to v
 
 <!-- ![Persona](/images/Votura-Asset.png) -->
  
-<img src="/images/Votura-Asset.png" alt="drawing"/>
+<img src="/images/votura-asset.png" alt="assets"/>
