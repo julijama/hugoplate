@@ -2,7 +2,7 @@
 title: "Knowledge Exchange Platform"
 meta_title: ""
 description: "Swapy"
-image: "/images/swapy-cover.png"
+image: "/images/Swapy-Cover.png"
 categories: ["Application"]
 author: "Julija Martinkutė"
 tags: ["Prototype", "Knowledge Platform"]
