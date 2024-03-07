@@ -2,13 +2,13 @@
 title: "Knowledge Exchange Platform"
 meta_title: ""
 description: "Swapy"
-image: "/images/Swapy-Cover.png"
+image: "/images/swapy-cover.png"
 categories: ["Application"]
 author: "Julija Martinkutė"
 tags: ["Prototype", "Knowledge Platform"]
 draft: false
 ---
-{{< gallery dir="images/Swapy" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/swapy" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 Empowering individuals to showcase their expertise and exchange insights seamlessly.
 

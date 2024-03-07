@@ -6,26 +6,14 @@ image: "/images/jmartinkute.jpeg"
 draft: false
 ---
 
- Welcome to a realm where innovation meets execution. My expertise bridges product design and management, creating seamless user experiences and delivering strategic success. Explore my journey of transforming ideas into tangible outcomes that exceed expectations. 
  
-#### Professional Summary
-Creative and results-driven professional with extensive experience in UI/UX design, product management, and digital transformation. Skilled in crafting seamless user experiences, leading cross-functional teams, and driving innovation. Dedicated to delivering exceptional results and exceeding client expectations.
-
 #### Experience
 
- **Product Management:** Spearheaded project coordination and strategy integration, enhancing business opportunities and customer base through innovative promotion. Established and implemented team performance goals and project focus, ensuring safety and compliance in collaboration with design teams. Managed marketing efforts, budgeting, and SEO strategies for increased engagement, along with user research to inform design and strategy.
+**UI/UX Design**
+As a Product Designer, I've developed intuitive UIs focused on privacy and user experience, leveraging Figma, Sketch, and Miro to transform user data into actionable design improvements. My work, including wireframes and UI prototypes, has boosted user satisfaction, retention by 30%, and daily engagement. Rigorous usability testing further enhanced designs, reducing churn by 25% and increasing conversions by 40%, underlining the significant impact of strategic UI/UX design on product success.
 
-**Product Ownership and Innovation:** Owned product backlogs, outlining feature implementations and coordinating with developers for custom solutions. Utilized Agile principles for tailored solution delivery, employing wireframes, mock-ups, and prototypes to define user interfaces, conducting market research for opportunity identification.
-
-**UI/UX Design Consultancy:** Specialized in analyzing user needs and behaviors to identify pain points and improvement areas. Developed wireframes and prototypes, focusing on UI details and usability testing to refine designs, adapting to insights and trends.
-
-**Digital Signature and Identity Verification:** Directed product roadmap prioritization, documenting user stories and features for cross-team communication. Leveraged user feedback for product enhancements, monitoring market trends for strategic promotional updates.
-
-#### Additional Experience
-
- **Project Coordination in Banking:**  Managed schedules, budgets, and objectives within Raiffeisen Bank International's Enterprise Data Warehouse, focusing on efficient data analysis for decision-making.
- 
-**Internships:** Gained foundational experience in project management and key account management, enhancing project planning, stakeholder communication, and client relationship skills.
+**Product Management**
+As a Product Manager, I've spearheaded strategy and innovation across key sectors like digital security and banking, notably with SignD Identity GmbH and Raiffeisen Bank International. My efforts in introducing critical KYC/KYB features led to a 40% surge in user acquisition and 25% more sales at SignD. At Raiffeisen, I enhanced project efficiency by 15%, leveraging advanced project management and data analysis. Freelance consulting allowed me to boost UI/UX engagement by 20%. My knack for leading complex projects and fostering teamwork has consistently generated pioneering solutions, boosting user experience and market position.
 
 #### Education
 
@@ -36,34 +24,18 @@ Creative and results-driven professional with extensive experience in UI/UX desi
 **Vytautas Magnus University:** History
 
 #### Technical Skills
+
 **General:** Jira, Confluence, Monday.com, Salesforce, Miro, Lucidchart, Draw.io
 
-**UI/UX Design:** Figma, Sketch, HTML, CSS, Canva, Webflow
+**UI/UX Design:** Figma, Sketch, HTML, CSS, Canva, Webflow, Adobe XD, Storybook, Balsamiq, Justinmind, UXPin
 
 **Marketing:** Google Analytics, MailChimp, Hotjar
 
-**Data:** SQL, MySQL, Tableau, Metabase
+**Data:** SQL, MySQL, Tableau, Metabase, Tableau
 
-**Programming:** Python (beginner), Java (beginner), JavaScript (beginner)
+**Programming:** HTML, CSS, Python (beginner), Java (beginner), JavaScript (beginner)
 
 **API:** Postman, Swagger
-
-
-#### Certificates/Trainings:
- **Certified Scrum Product Owner®**, Scrum Alliance
-
- **Google UX Design:** Foundations of User Experience Design, 
-Start the UX Design Process: Empathize, Define, and Ideate, 
-
- **Udemy:** Figma UI UX Design Essentials
-
- **Udemy:** Complete Web & Mobile Designer: UI/UX, Figma 
-
- **Vilnius Coding School:** Data Analytics
-
- **Vilnius Coding School:** Project Management and Programming
- 
-
 
 #### Expertise:
 UX/UI Design
@@ -74,7 +46,27 @@ Cybersecurity / Cryptography
 
 FinTech
 
-Market Research
-
 Data Analysis
  
+#### Certificates/Trainings:
+
+**Certified Scrum Product Owner®**, Scrum Alliance
+
+**Google UX Design:** Foundations of User Experience (UX) Design. 
+Start the UX Design Process: Empathize, Define, and Ideate. Build Wireframes and Low-Fidelity Prototypes 
+
+**Udemy:** Figma UI UX Design Essentials
+
+**Udemy:** Complete Web & Mobile Designer: UI/UX, Figma 
+
+**Vilnius Coding School:** Data Analytics
+
+**Vilnius Coding School:** Project Management and Programming
+
+{{< gallery dir="images/certificates" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+<!-- <img src="/images/Certificate-Google-UX.png" alt="certificate-google-ux" width="350"/>
+<img src="/images/Certificate-Google-UXX.png" alt="certificate-google-ux-ui" width="350"/>
+<img src="/images/Certificate-Google-Wireframe.png" alt="certificate-google-wireframe" width="350"/>
+<img src="/images/Certificate-ScrumAlliance.png" alt="certificate-scrum-alliance" width="350"/>
+<img src="/images/Certificate-Udemy-Figma.png" alt="certificate-udemy-figma" width="350"/> -->

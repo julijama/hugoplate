@@ -14,13 +14,13 @@ banner:
 features:
   - title: "Product Design"
     image: "/images/service-1.png"
-    content: "As a UI/UX designer, I craft personalized solutions prioritizing intuitive navigation and engaging design to elevate your brand." 
+    content:  
     bulletpoints:
-      - "User-Centric Research: Analyzing audience behaviors, preferences, and pain points for effective design."
-      - "Prototyping and Wireframing: Creating interactive models to visualize and iterate product structure and function."
-      - "Seamless Interaction Design: Designing intuitive interfaces for enhanced usability and satisfaction."
-      - "Visual Design Excellence: Crafting visually appealing interfaces reflecting brand identity with readability and accessibility in mind."
-      - "Usability Testing and Optimization: Gathering feedback for continuous improvement of user experience through thorough testing."
+      - "**User-Centric Research:** Analyzing audience behaviors, preferences, and pain points for effective design."
+      - "**Prototyping and Wireframing:** Creating interactive models to visualize and iterate product structure and function."
+      - "**Seamless Interaction Design:** Designing intuitive interfaces for enhanced usability and satisfaction."
+      - "**Visual Design Excellence:** Crafting visually appealing interfaces reflecting brand identity with readability and accessibility in mind."
+      - "**Usability Testing and Optimization:** Gathering feedback for continuous improvement of user experience through thorough testing."
     button:
       enable: true
       label: "Let's collaborate!" 
@@ -28,13 +28,13 @@ features:
 
   - title: "Product Management"
     image: "/images/service-2.png"
-    content: "As a product manager, I drive digital success through innovative strategies aligned with company goals and customer needs." 
+    content:  
     bulletpoints:
-      - "MVP Strategy: Guide MVP creation for rapid testing, streamlining product development."
-      - "Market Research: Provide comprehensive analysis of customer needs, trends, and competitors."
-      - "Feedback-Driven Iteration: Establish continuous feedback loops for ongoing improvements."
-      - "Vision-Aligned Roadmaps: Develop focused roadmaps aligned with company vision."
-      - "Competitive Advantage: Conduct regular competitor analyses to maintain market edge."
+      - "**MVP Strategy:** Guide MVP creation for rapid testing, streamlining product development."
+      - "**Market Research:** Provide comprehensive analysis of customer needs, trends, and competitors."
+      - "**Feedback-Driven Iteration:** Establish continuous feedback loops for ongoing improvements."
+      - "**Vision-Aligned Roadmaps:**  Develop focused roadmaps aligned with company vision."
+      - "**Competitive Advantage:** Conduct regular competitor analyses to maintain market edge."
      
     button:
       enable: true
