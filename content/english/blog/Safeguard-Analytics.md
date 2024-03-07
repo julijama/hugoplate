@@ -2,7 +2,7 @@
 title: "Secure Data Insights"
 meta_title: ""
 description: "data dashboard"
-image: "/images/votura-cover.png"
+image: "/images/votura-cover.png" 
 categories: ["Application"]
 author: "Julija Martinkutė"
 tags: ["Prototype", "E-shop"]
