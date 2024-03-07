@@ -10,6 +10,13 @@ weight = 1
 name = "About"
 url = "about/"
 weight = 2
+#hasChilden = true
+
+[[main]]
+#parent = "About"
+name = "CV"
+url = "cv_julija_martinkute.pdf"
+weight = 5
 
 # [[main]]
 # name = "Elements"

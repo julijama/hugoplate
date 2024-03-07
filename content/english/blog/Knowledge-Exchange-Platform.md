@@ -42,7 +42,7 @@ Swapy was designed with a minimalistic and intuitive interface to lower the barr
 
 - **Mobile-First Design:** Recognizing the ubiquity of smartphones, Swapy was crafted to be mobile-friendly, ensuring access to learning anytime, anywhere.
 
-### Design Insights
+#### Design Insights
 
 **Design Rationale:** 
 The rationale behind Swapy’s design was to create an inclusive and engaging environment that encourages knowledge exchange. The user interface was crafted to minimize cognitive load, ensuring that users could navigate through the app with ease and find or offer help without friction. The color palette, typography, and imagery were chosen to create a calming and focused atmosphere conducive to learning. 

@@ -41,6 +41,6 @@ features:
       label: "Let's collaborate!" 
       link: "/contact"
 
-widefeatures:
-  - image: "/images/UiUxTools.png" 
+# widefeatures:
+#   - image: "/images/UiUxTools.png" 
 ---

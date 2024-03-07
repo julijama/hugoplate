@@ -13,8 +13,6 @@ At heart, I'm someone who sees the bigger picture and loves figuring out how eac
 draft: false
 ---
 
-#### Experience
-
 #### Education
 
 - **University of California San Diego:** The Interaction Design Specialization
