@@ -3,11 +3,45 @@
     <div class="container">
       <div class="row justify-center">
         <div class="md:col-10 lg:col-7">
-          {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
           <h4 class="h3 mb-6 text-center">{{ .Title }}</h4>
+          {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "531x479") }} 
+          <h3 class="h3 mb-6">A little bit about myself</h3>
+          <div class="content">
+            {{ .Params.intro | markdownify}} 
+          </div>
+          {{ $skills := .Params.skills }}
+          {{ if gt (len $skills) 0 }}
+          <div class="mb-8">
+            <h4 class="h4 mb-6 mt-6" style="font-weight: 600">Technical Skills</h4>
+            <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-6">
+              <ul>
+                {{ range $name, $items := $skills }}
+                  <li class="inline-block bg-darkmode-theme-light m-1 block rounded bg-black px-3 py-1 text-white">
+                    {{ $items }} 
+                  </li>
+                {{ end }}
+              </ul> 
+            </div>
+          </div>
+          {{ end }} 
+          {{ $expertise := .Params.expertise }}
+          {{ if gt (len $expertise) 0 }}
+          <div class="mb-8">
+            <h4 class="h4 mb-6 mt-6" style="font-weight: 600">Expertise</h4>
+            <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-6">
+              <ul>
+                {{ range $name, $items := $expertise }}
+                  <li class="inline-block bg-darkmode-theme-light m-1 block rounded bg-black px-3 py-1 text-white">
+                    {{ $items }} 
+                  </li>
+                {{ end }}
+              </ul> 
+            </div>
+          </div>
+          {{ end }} 
           <div class="content">{{ .Content }}</div>
         </div>
       </div>
     </div>
   </section>
-{{ end }}
+{{ end }} 

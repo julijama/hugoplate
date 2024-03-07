@@ -3,53 +3,28 @@ title: "Design, Direct, Deliver: From Canvas to User Experience"
 meta_title: "About"
 description: "About Julija Martinkutė"
 image: "/images/jmartinkute.jpeg"
+skills: ["Jira", "Confluence", "Salesforce", "Miro", "Lucidchart", "Draw.io", "Figma", "Sketch", "HTML", "CSS", "Python", "Java", "JavaScript",  "Canva", "Webflow", "Adobe XD", "Storybook", "Balsamiq", "UXPin", "Google Analytics", "MailChimp", "Hotjar", "SQL", "MySQL", "Tableau", "Metabase", "Postman", "Swagger"]
+expertise: ["UX/UI Design Tools Proficiency", "Agile and Lean Product Development", "Data Analysis and Interpretation", "SaaS (Software as a Service) Management", "KYC/KYB/AML/PEP", "Cryptography", "Cybersecurity", "FinTech", "Secure Data Exchange"]
+intro: "<p>Hi! I'm Julija, and I absolutely love diving deep into the world of design to make user experiences as delightful as possible. Each day is a new adventure for me; I'm constantly picking up new skills and insights to ensure I'm always bringing my A-game. </p>
+
+<p>My journey has taken me through the realms of product management and design, where I've found that these two areas blend beautifully together. I've enriched my understanding of UI/UX and product design by participating in workshops, celebrating new certifications, soaking up knowledge from blogs, and applying what I've learned directly to real-world projects. I've come to see that the world of UI/UX is boundless, and staying sharp means being perpetually curious—whether that's tuning into the latest podcast or jumping into a fresh course. </p>
+
+At heart, I'm someone who sees the bigger picture and loves figuring out how each detail fits into the grand scheme of things. Yet, I'm also a stickler for details—yes, I'm that person who thinks every single pixel plays a pivotal role!"
 draft: false
 ---
 
- 
 #### Experience
-
-**UI/UX Design**
-As a Product Designer, I've developed intuitive UIs focused on privacy and user experience, leveraging Figma, Sketch, and Miro to transform user data into actionable design improvements. My work, including wireframes and UI prototypes, has boosted user satisfaction, retention by 30%, and daily engagement. Rigorous usability testing further enhanced designs, reducing churn by 25% and increasing conversions by 40%, underlining the significant impact of strategic UI/UX design on product success.
-
-**Product Management**
-As a Product Manager, I've spearheaded strategy and innovation across key sectors like digital security and banking, notably with SignD Identity GmbH and Raiffeisen Bank International. My efforts in introducing critical KYC/KYB features led to a 40% surge in user acquisition and 25% more sales at SignD. At Raiffeisen, I enhanced project efficiency by 15%, leveraging advanced project management and data analysis. Freelance consulting allowed me to boost UI/UX engagement by 20%. My knack for leading complex projects and fostering teamwork has consistently generated pioneering solutions, boosting user experience and market position.
 
 #### Education
 
-**University of California San Diego:** The Interaction Design Specialization
+- **University of California San Diego:** The Interaction Design Specialization
 
-**Vytautas Magnus University:** Economic and Finances
+- **Vytautas Magnus University:** Economic and Finances
 
-**Vytautas Magnus University:** History
-
-#### Technical Skills
-
-**General:** Jira, Confluence, Monday.com, Salesforce, Miro, Lucidchart, Draw.io
-
-**UI/UX Design:** Figma, Sketch, HTML, CSS, Canva, Webflow, Adobe XD, Storybook, Balsamiq, Justinmind, UXPin
-
-**Marketing:** Google Analytics, MailChimp, Hotjar
-
-**Data:** SQL, MySQL, Tableau, Metabase, Tableau
-
-**Programming:** HTML, CSS, Python (beginner), Java (beginner), JavaScript (beginner)
-
-**API:** Postman, Swagger
-
-#### Expertise:
-UX/UI Design
-
-KYC / KYB/ AML / PEP
-
-Cybersecurity / Cryptography
-
-FinTech
-
-Data Analysis
+- **Vytautas Magnus University:** History
  
 #### Certificates/Trainings:
-
+<!-- 
 **Certified Scrum Product Owner®**, Scrum Alliance
 
 **Google UX Design:** Foundations of User Experience (UX) Design. 
@@ -61,12 +36,6 @@ Start the UX Design Process: Empathize, Define, and Ideate. Build Wireframes and
 
 **Vilnius Coding School:** Data Analytics
 
-**Vilnius Coding School:** Project Management and Programming
+**Vilnius Coding School:** Project Management and Programming -->
 
 {{< gallery dir="images/certificates" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<!-- <img src="/images/Certificate-Google-UX.png" alt="certificate-google-ux" width="350"/>
-<img src="/images/Certificate-Google-UXX.png" alt="certificate-google-ux-ui" width="350"/>
-<img src="/images/Certificate-Google-Wireframe.png" alt="certificate-google-wireframe" width="350"/>
-<img src="/images/Certificate-ScrumAlliance.png" alt="certificate-scrum-alliance" width="350"/>
-<img src="/images/Certificate-Udemy-Figma.png" alt="certificate-udemy-figma" width="350"/> -->
