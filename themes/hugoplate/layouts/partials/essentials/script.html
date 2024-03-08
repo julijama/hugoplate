@@ -1,6 +1,7 @@
 <!-- JS Plugins + Main script -->
 {{ $scripts := slice }}
 {{ $scriptsLazy := slice }}
+{{ $scriptsSlider := slice }}
 {{ range site.Params.plugins.js }}
   {{ if findRE "^http" .link }}
     <script
@@ -23,9 +24,13 @@
 
 {{ $scriptsLazy = $scriptsLazy | resources.Concat "js/script-lazy.js" }}
 
+{{ $scriptsSlider = $scriptsSlider | append (resources.Get "js/slider.js") }}
+{{ $scriptsSlider = $scriptsSlider | resources.Concat "js/script-slider.js" }}
+
 {{ if hugo.IsProduction }}
   {{ $scripts = $scripts | minify | fingerprint }}
   {{ $scriptsLazy = $scriptsLazy | minify | fingerprint }}
+  {{ $scriptsSlider = $scriptsSlider | minify | fingerprint }}
 {{ end }}
 
 {{/* scripts */}}
@@ -41,6 +46,27 @@
   crossorigin="anonymous"
   integrity="{{ $scriptsLazy.Data.Integrity }}"
   src="{{ $scriptsLazy.RelPermalink }}"></script>
+
+{{/* scripts slider */}}
+<script
+  crossorigin="anonymous"
+  integrity="{{ $scriptsSlider.Data.Integrity }}"
+  src="{{ $scriptsSlider.RelPermalink }}"></script>
+
+<script>
+  let one = document.getElementById("one");
+  if (one) {
+    new BeforeAfter({
+        id: '#one'
+    });
+  }
+  let two = document.getElementById("two");
+  if (two) {
+    new BeforeAfter({
+        id: '#two'
+    });
+  }
+</script>
 
 <!-- progressive web app -->
 {{ partialCached "pwa.html" . }}

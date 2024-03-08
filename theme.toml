@@ -7,7 +7,7 @@ demosite = "https://zeon.studio/preview?project=hugoplate"
 min_version = "0.121.2"
 
 tags = [
-  "blog",
+  "designs",
   "responsive",
   "minimal",
   "personal",

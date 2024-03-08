@@ -32,6 +32,7 @@
 <!-- plugins + stylesheet -->
 {{ $styles := slice }}
 {{ $stylesLazy := slice }}
+{{ $stylesSlider := slice }}
 {{ range site.Params.plugins.css }}
   {{ if findRE "^http" .link }}
     <link
@@ -57,12 +58,18 @@
 {{ $stylesLazy = $stylesLazy | resources.Concat "css/style-lazy.css" }}
 {{ $stylesLazy = $stylesLazy | resources.PostCSS }}
 
+{{ $stylesSlider = $stylesSlider | append (resources.Get "scss/slider.scss" | toCSS) }}
+{{ $stylesSlider = $stylesSlider | resources.Concat "css/style-slider.css" }}
+{{ $stylesSlider = $stylesSlider | resources.PostCSS }}
+
 {{ if hugo.IsProduction }}
   {{ $styles = $styles | resources.ExecuteAsTemplate "css/style.css" . | minify | fingerprint | resources.PostProcess }}
   {{ $stylesLazy = $stylesLazy | resources.ExecuteAsTemplate "css/style-lazy.css" . | minify | fingerprint | resources.PostProcess }}
+  {{ $stylesSlider = $stylesSlider | resources.ExecuteAsTemplate "css/style-slider.css" . | minify | fingerprint | resources.PostProcess }}
 {{ else }}
   {{ $styles = $styles | resources.ExecuteAsTemplate "css/style.css" . }}
   {{ $stylesLazy = $stylesLazy | resources.ExecuteAsTemplate "css/style-lazy.css" . }}
+  {{ $stylesSlider = $stylesSlider | resources.ExecuteAsTemplate "css/style-slider.css" . }}
 {{ end }}
 
 {{/* styles */}}
@@ -80,3 +87,10 @@
   integrity="{{ $stylesLazy.Data.Integrity }}"
   media="print"
   onload="this.media='all'; this.onload=null;" />
+
+{{/* styles slider */}}
+<link
+  href="{{ $stylesSlider.RelPermalink }}"
+  integrity="{{ $stylesSlider.Data.Integrity }}"
+  rel="stylesheet" />
+  
