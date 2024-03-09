@@ -39,6 +39,6 @@ To gauge the effectiveness of the design, I monitored metrics such as engagement
 **Personal Learning:** 
 This project deepened my understanding of user-centered design, particularly in an e-commerce context. It honed my skills in creating visual hierarchies and reinforced the importance of responsive design. Learning about my target users—photographers seeking quality equipment—allowed me to make informed decisions, resulting in a product that’s not only aesthetically pleasing but also highly functional.
 
-### Additional material 
+### Additional Material 
  
-<img src="/images/rd.png" alt="assets"/>
+{{< image src="images/rd.png" caption="" alt="rd-assets" height="800" position="center" webp="false" >}}

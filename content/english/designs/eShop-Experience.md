@@ -39,8 +39,8 @@ The design’s layout and user flow are optimized for performance metrics such a
 **Personal Learning:** 
 This project significantly contributed to my growth in areas like mobile-first design principles, attention to detail in typography and iconography, and integrating user feedback into the iterative design process.
 
-### Additional material 
+### Additional Material 
 
 **User Persona**
 
-<img src="/images/facewash-persona.png" alt="drawing" width="750"/>
+{{< image src="images/facewash-persona.png" caption="" alt="eshop-user-persona" width="750" webp="false" >}}

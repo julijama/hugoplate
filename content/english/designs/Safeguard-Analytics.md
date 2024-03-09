@@ -32,8 +32,8 @@ In the design and prototyping phase for Votura, abstract concepts were developed
 **Testing & Refinement: :** 
 Through iterative user testing sessions with business stakeholders, we collected valuable feedback. This led to multiple design iterations, ensuring the platform was perfectly tailored to meet the complex needs of our diverse B2B audience.
 
-<img src="/images/signup-wireframe.png" alt="wireframe" width="450"/>
-<img src="/images/wireframe-votura.png" alt="wireframe" width="550"/>
+{{< image src="images/signup-wireframe.png" caption="" alt="votura-wireframe-1" width="450" webp="false" >}}
+{{< image src="images/wireframe-votura.png" caption="" alt="votura-wireframe-2" width="550" webp="false" >}}
  
 ### Design Justification for Votura
 
@@ -65,4 +65,4 @@ The development of Votura was an enriching journey, broadening my understanding 
 
 ### Additional material 
  
-<img src="/images/votura-asset.png" alt="assets"/>
+{{< image src="images/votura-asset.png" caption="" alt="votura-asset" webp="false" >}}

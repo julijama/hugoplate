@@ -8,6 +8,7 @@ author: "Julija Martinkutė"
 tags: ["Prototype", "Knowledge Platform"]
 draft: false
 ---
+
 {{< gallery dir="images/swapy" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 Empowering individuals to showcase their expertise and exchange insights seamlessly.

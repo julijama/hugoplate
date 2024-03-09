@@ -9,17 +9,19 @@ tags: ["Prototype", "Car Sharing"]
 draft: false
 ---
 
+In this project, my goal was to strategically refine the color scheme, enhance navigational ease, and incorporate flexible payment options. By doing so, I successfully elevated the user experience in the car booking application, ensuring it aligns more closely with user needs and expectations
+
 <div class="mainSection">
     <div id="one" class="bal-container">
         <div class="bal-after">
-            <img src="/images/eloop/after-1.png">
+            {{< image src="images/eloop/after-1.png" webp="false" >}}
             <div class="bal-afterPosition afterLabel">
                 After
             </div>
         </div> 
         <div class="bal-before">
             <div class="bal-before-inset">
-                <img src="/images/eloop/before-1.png">
+                {{< image src="images/eloop/before-1.png" webp="false" >}}
                 <div class="bal-beforePosition beforeLabel">
                     Before
                 </div>
@@ -32,14 +34,14 @@ draft: false
     </div>
     <div id="two" class="bal-container">
         <div class="bal-after">
-            <img src="/images/eloop/after-2.png">
+            {{< image src="images/eloop/after-2.png" webp="false" >}}
             <div class="bal-afterPosition afterLabel">
                 After
             </div>
         </div> 
         <div class="bal-before">
             <div class="bal-before-inset">
-                <img src="/images/eloop/before-2.png">
+                {{< image src="images/eloop/before-2.png" webp="false" >}}
                 <div class="bal-beforePosition beforeLabel">
                     Before
                 </div>
