@@ -94,4 +94,3 @@ These enhancements are a testament to our commitment to continuously refine our 
 {{< image src="images/eloop-heuristic-evaluation.png" caption="" alt="eloop-heuristic" height="500" width="500" webp="false" >}}
 {{< image src="images/eloop-example-2.png" caption="" alt="eloop-example" height="500" width="1000" webp="false" >}}
 {{< image src="images/eloop-example-1.png" caption="" alt="eloop-example" height="800" width="600"  webp="false" >}}
-
