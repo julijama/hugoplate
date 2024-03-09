@@ -15,8 +15,8 @@ npm run build
 Set-Location .\public
 git add -A
 git commit -m "$CommitMessage"
-git pull
-git push -u origin main
+git pull origin main
+git push origin HEAD:main
 
 Set-Location ..
 git add .
