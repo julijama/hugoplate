@@ -9,7 +9,7 @@ tags: ["Prototype", "Car Sharing"]
 draft: false
 ---
 
-In this project, my goal was to strategically refine the color scheme, enhance navigational ease, and incorporate flexible payment options. By doing so, I successfully elevated the user experience in the car booking application, ensuring it aligns more closely with user needs and expectations
+In this project, my goal was to strategically refine the color scheme, enhance navigational ease, and incorporate flexible payment options. By doing so, I successfully elevated the user experience in the car booking application, ensuring it aligns more closely with user needs and expectations.
 
 <div class="mainSection">
     <div id="one" class="bal-container">
