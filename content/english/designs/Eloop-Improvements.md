@@ -92,7 +92,11 @@ In my latest update, I focused on strategic enhancements to the user experience,
 
 These enhancements are a testament to our commitment to continuously refine our app based on user feedback and industry best practices. By focusing on intuitive design, flexibility, and brand consistency, we aim to deliver an exceptional user experience that not only meets but exceeds our users' expectations.
 
+#### Additional Material
+
 {{< image src="images/eloop-low-fidelity.png" caption="" alt="eloop-low-fidelity" height="450" width="500" webp="false" >}}
-{{< image src="images/eloop-heuristic-evaluation.png" caption="" alt="eloop-heuristic" height="500" width="500" webp="false" >}}
-{{< image src="images/eloop-example-2.png" caption="" alt="eloop-example" height="500" width="1000" webp="false" >}}
-{{< image src="images/eloop-example-1.png" caption="" alt="eloop-example" height="800" width="600"  webp="false" >}}
+{{< image src="images/eloop-heuristic-evaluation.png" caption="" alt="eloop-heuristic" height="480" width="560" webp="false" >}}
+{{< image src="images/eloop-moodboard.png" caption="" alt="eloop-moodboard" height="800" position="center" webp="false" >}}
+
+<!-- {{< image src="images/eloop-example-2.png" caption="" alt="eloop-example" height="500" width="1000" webp="false" >}}
+{{< image src="images/eloop-example-1.png" caption="" alt="eloop-example" height="800" width="600"  webp="false" >}} -->

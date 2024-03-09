@@ -17,7 +17,7 @@ An intuitive online beauty shop designed for a seamless browsing and purchasing 
 
 The UI/UX design for the Elegant Beauty E-Shop aimed at creating a simple and elegant interface to boost sales and enhance product discovery. Focused solely on the design aspects, I streamlined the navigation and search functionality, making it easier for users to find and view products. This design approach significantly improved the shopping experience, leading to increased engagement and sales for the e-shop. 
 
- #### Design Insights  
+#### Design Insights  
 
 **Design Rationale:** 
 The UI design utilizes a monochromatic color scheme with strategic use of whitespace, ensuring that the cosmetic products are the focal point. Clean, sans-serif typography is chosen for readability and modern appeal. The grid layout for product display is meticulously organized to promote easy browsing and comparison, while the product detail pages are designed to provide a clear visual hierarchy, emphasizing essential information like price, product benefits, and customer reviews.
@@ -41,6 +41,5 @@ This project significantly contributed to my growth in areas like mobile-first d
 
 ### Additional Material 
 
-**User Persona**
-
-{{< image src="images/facewash-persona.png" caption="" alt="eshop-user-persona" width="750" webp="false" >}}
+{{< image src="images/eshop-wireframe.png" caption="" alt="eshop-wireframe" height="500" position="center" webp="false" >}}
+{{< image src="images/eshop-moodboard.png" caption="" alt="eshop-moodboard" height="800" position="center" webp="false" >}}

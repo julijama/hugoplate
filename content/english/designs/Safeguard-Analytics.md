@@ -63,6 +63,6 @@ The success of Votura is monitored through key metrics such as user adoption rat
 **Personal Learning:**
 The development of Votura was an enriching journey, broadening my understanding of B2B dynamics, design thinking, and the technical execution of complex platforms. It underscored the importance of empathy in design, especially when addressing the nuanced needs of business users.
 
-### Additional material 
+### Additional Material 
  
 {{< image src="images/votura-asset.png" caption="" alt="votura-asset" webp="false" >}}

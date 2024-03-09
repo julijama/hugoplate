@@ -65,3 +65,7 @@ Success was measured through key performance indicators such as user engagement 
 
 **Personal Learning:** 
 The design process was a profound learning curve, enhancing my skills in user experience design, graphic design, and user interface engineering. I gained invaluable insights into educational psychology, which informed the empathetic design of Swapy's user experience.
+
+### Additional Material 
+
+{{< image src="images/Swapy-moodboard.png" caption="" alt="swapy-moodboard" height="800" position="center" webp="false" >}}
