@@ -52,10 +52,8 @@ draft: false
     </div>
 </div>
 
-
 ### Short Summary
- In my latest update, I focused on strategic enhancements to the user experience, concentrating on refining the color scheme, improving navigational elements, and enhancing payment flexibility. Rooted in comprehensive user research and analytics, I identified crucial areas for improvement within my application to better serve user needs. By adjusting colors to improve readability within our brand guidelines, making our logo more visible to promote our token system, and simplifying the booking and payment processes for greater ease of use, I aim to elevate user satisfaction and engagement with the car booking application significantly.
-
+In my latest update, I focused on strategic enhancements to the user experience, concentrating on refining the color scheme, improving navigational elements, and enhancing payment flexibility. Rooted in comprehensive user research and analytics, I identified crucial areas for improvement within my application to better serve user needs. By adjusting colors to improve readability within our brand guidelines, making our logo more visible to promote our token system, and simplifying the booking and payment processes for greater ease of use, I aim to elevate user satisfaction and engagement with the car booking application significantly.
 
 ### Design Insights  
 
@@ -73,7 +71,7 @@ draft: false
  
 #### Enhanced Booking Details and Payment Flexibility:
 
- **Rationale:** To address users' needs for clarity and flexibility in payment methods, acknowledging that many users have multiple cards or prefer to switch payment methods.
+**Rationale:** To address users' needs for clarity and flexibility in payment methods, acknowledging that many users have multiple cards or prefer to switch payment methods.
 
 **Implementation:** Updated the booking interface to clearly display the chosen payment card and provided an easy method for users to change their payment option. This addition not only offers convenience but also empowers users with control over their payment preferences.
 
@@ -91,8 +89,8 @@ draft: false
 #### Conclusion:
 
 These enhancements are a testament to our commitment to continuously refine our app based on user feedback and industry best practices. By focusing on intuitive design, flexibility, and brand consistency, we aim to deliver an exceptional user experience that not only meets but exceeds our users' expectations.
- 
-![example-1](images/eloop-example-1.png)
-![example-2](images/eloop-example-2.png)
-![heuristic](images/eloop-heuristic-evaluation.png)
-![low-fidelity](images/eloop-low-fidelity.png)
+
+{{< image src="images/eloop-low-fidelity.png" caption="" alt="eloop-low-fidelity" height="450" width="500" webp="false" >}}
+{{< image src="images/eloop-heuristic-evaluation.png" caption="" alt="eloop-heuristic" height="500" width="500" webp="false" >}}
+{{< image src="images/eloop-example-2.png" caption="" alt="eloop-example" height="500" width="1000" webp="false" >}}
+{{< image src="images/eloop-example-1.png" caption="" alt="eloop-example" height="800" width="600"  webp="false" >}}
