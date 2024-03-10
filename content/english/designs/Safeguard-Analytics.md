@@ -9,7 +9,7 @@ tags: ["Prototype", "E-shop"]
 draft: false
 ---
 
-{{< gallery dir="images/votura" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/votura-gallery" class="" height="2400" width="1500" webp="true" command="Fit" option="" zoomable="true" >}}
 
 Votura, an Austrian startup in its nascent phase, specializes in data preservation with a focus on secure data collection and analytics.  
 

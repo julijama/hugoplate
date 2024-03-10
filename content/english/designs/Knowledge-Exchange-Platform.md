@@ -9,7 +9,7 @@ tags: ["Prototype", "Knowledge Platform"]
 draft: false
 ---
 
-{{< gallery dir="images/swapy" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/swapy-gallery" class="" height="3000" width="4000" webp="true" command="Fit" option="" zoomable="true" >}}
 
 Empowering individuals to showcase their expertise and exchange insights seamlessly.
 
@@ -68,4 +68,6 @@ The design process was a profound learning curve, enhancing my skills in user ex
 
 ### Additional Material 
 
-{{< image src="images/Swapy-moodboard.png" caption="" alt="swapy-moodboard" height="800" position="center" webp="false" >}}
+<!-- {{< slider dir="images/Swapy-slider" height="1400" width="1400" webp="true" command="Fit" option="" zoomable="true" >}} -->
+
+{{< image src="images/Swapy-slider/Swapy-moodboard.png" caption="" alt="swapy-moodboard" height="1400" position="center" webp="false" >}}

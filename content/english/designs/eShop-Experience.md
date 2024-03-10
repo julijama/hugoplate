@@ -9,7 +9,7 @@ tags: ["Prototype", "E-shop"]
 draft: false
 ---
 
-{{< gallery dir="images/facewash" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/facewash-gallery" class="" height="1500" width="1000" webp="true" command="Fit" option="" zoomable="true" >}}
 
 An intuitive online beauty shop designed for a seamless browsing and purchasing experience, catering to all customers cosmetic needs.
 
@@ -41,5 +41,7 @@ This project significantly contributed to my growth in areas like mobile-first d
 
 ### Additional Material 
 
-{{< image src="images/eshop-wireframe.png" caption="" alt="eshop-wireframe" height="500" position="center" webp="false" >}}
-{{< image src="images/eshop-moodboard.png" caption="" alt="eshop-moodboard" height="800" position="center" webp="false" >}}
+{{< slider dir="images/facewash-slider" height="2000" width="1500" webp="true" command="Fit" option="" zoomable="true" >}}
+
+<!-- {{< image src="images/facewash-slider/eshop-wireframe.png" caption="" alt="eshop-wireframe" height="500" position="center" webp="false" >}}
+{{< image src="images/facewash-slider/eshop-moodboard.png" caption="" alt="eshop-moodboard" height="800" position="center" webp="false" >}} -->

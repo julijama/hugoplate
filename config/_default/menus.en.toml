@@ -13,56 +13,26 @@ weight = 2
 #hasChilden = true
 
 [[main]]
-#parent = "About"
-name = "CV"
-url = "cv_julija_martinkute.pdf"
-weight = 5
-
-# [[main]]
-# name = "Elements"
-# url = "elements/"
-# weight = 3
-
-[[main]]
 name = "Designs"
 url = "designs/"
 weight = 3
 
-[[main]]
-name = "Contact"
-url =  "contact/"
-weight = 4
-
 # [[main]]
-# weight = 5
-# name = "Pages"
-# hasChildren = true
-
-# [[main]]
-# parent = "Pages"
 # name = "Contact"
-# url = "contact/"
+# url =  "contact/"
+# weight = 4
 
 # [[main]]
-# parent = "Pages"
-# name = "Authors"
-# url = "authors/"
-
-# [[main]]
-# parent = "Pages"
-# name = "Categories"
-# url = "categories/"
+# #parent = "About"
+# name = "CV"
+# url = "cv_julija_martinkute.pdf"
+# weight = 5
 
 # footer menu
 [[footer]]
 name = "About"
 url = "about/"
 weight = 1
-
-# [[footer]]
-# name = "Elements"
-# url = "elements/"
-# weight = 2
 
 [[footer]]
 name = "Privacy Policy"

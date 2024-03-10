@@ -9,7 +9,7 @@ tags: ["Prototype", "E-shop"]
 draft: false
 ---
 
-{{< gallery dir="images/red-camera" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/rd-camera-gallery" class="" height="2000" width="1500" webp="true" command="Fit" option="" zoomable="true" >}}
 
 An intuitive online beauty shop designed for a seamless browsing and purchasing experience, catering to all your cosmetic needs.
 

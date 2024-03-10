@@ -1,5 +1,5 @@
 ---
-title: "Improvment to Drive and Share"
+title: "Redesign to Drive and Share"
 meta_title: ""
 description: "Drive and Share App UI/UX Impromeant"
 image: "/images/eloop-cover.png"
@@ -14,14 +14,14 @@ In this project, my goal was to strategically refine the color scheme, enhance n
 <div class="mainSection">
     <div id="one" class="bal-container">
         <div class="bal-after">
-            {{< image src="images/eloop/after-1.png" webp="false" >}}
+            {{< image src="images/eloop-gallery/after-1.png" webp="false" >}}
             <div class="bal-afterPosition afterLabel">
                 After
             </div>
         </div> 
         <div class="bal-before">
             <div class="bal-before-inset">
-                {{< image src="images/eloop/before-1.png" webp="false" >}}
+                {{< image src="images/eloop-gallery/before-1.png" webp="false" >}}
                 <div class="bal-beforePosition beforeLabel">
                     Before
                 </div>
@@ -34,14 +34,14 @@ In this project, my goal was to strategically refine the color scheme, enhance n
     </div>
     <div id="two" class="bal-container">
         <div class="bal-after">
-            {{< image src="images/eloop/after-2.png" webp="false" >}}
+            {{< image src="images/eloop-gallery/after-2.png" webp="false" >}}
             <div class="bal-afterPosition afterLabel">
                 After
             </div>
         </div> 
         <div class="bal-before">
             <div class="bal-before-inset">
-                {{< image src="images/eloop/before-2.png" webp="false" >}}
+                {{< image src="images/eloop-gallery/before-2.png" webp="false" >}}
                 <div class="bal-beforePosition beforeLabel">
                     Before
                 </div>
@@ -94,9 +94,8 @@ These enhancements are a testament to our commitment to continuously refine our 
 
 #### Additional Material
 
-{{< image src="images/eloop-low-fidelity.png" caption="" alt="eloop-low-fidelity" height="450" width="500" webp="false" >}}
-{{< image src="images/eloop-heuristic-evaluation.png" caption="" alt="eloop-heuristic" height="480" width="560" webp="false" >}}
-{{< image src="images/eloop-moodboard.png" caption="" alt="eloop-moodboard" height="800" position="center" webp="false" >}}
+{{< slider dir="images/eloop-slider" height="2000" width="1500" webp="true" command="Fit" option="" zoomable="true" >}}
 
-<!-- {{< image src="images/eloop-example-2.png" caption="" alt="eloop-example" height="500" width="1000" webp="false" >}}
-{{< image src="images/eloop-example-1.png" caption="" alt="eloop-example" height="800" width="600"  webp="false" >}} -->
+<!-- {{< image src="images/eloop-slider/eloop-low-fidelity.png" caption="" alt="eloop-low-fidelity" height="450" width="500" webp="false" >}}
+{{< image src="images/eloop-slider/eloop-heuristic-evaluation.png" caption="" alt="eloop-heuristic" height="480" width="560" webp="false" >}}
+{{< image src="images/eloop-slider/eloop-moodboard.png" caption="" alt="eloop-moodboard" height="800" position="center" webp="false" >}} -->
