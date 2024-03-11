@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Transforming Ideas into Stunning Products & Features"
-  content: "Elevating experiences with seamless UI/UX design and innovative product management expertise. Let's transform your vision into reality together." 
+  content: "UI Design / UX Experience / Product Management"
   
   image: "/images/banner.png"
   button:
@@ -12,7 +12,7 @@ banner:
 
 # Features
 features:
-  - title: "Product Design"
+  - title: "UI/UX Design"
     image: "/images/service-1.png"
     content:  
     bulletpoints:
@@ -34,7 +34,7 @@ features:
       - "**Market Research:** Provide comprehensive analysis of customer needs, trends, and competitors."
       - "**Feedback-Driven Iteration:** Establish continuous feedback loops for ongoing improvements."
       - "**Vision-Aligned Roadmaps:**  Develop focused roadmaps aligned with company vision."
-      - "**Competitive Advantage:** Conduct regular competitor analyses to maintain market edge."
+      - "**Develop Product Strategy:** Defining the overall direction and goals for the product, including its vision, target audience, and positioning in the market."
      
     button:
       enable: true
