@@ -8,13 +8,13 @@
           <h3 class="h3 mb-6">A little bit about myself</h3>
           <div class="content">
             {{ .Params.intro | markdownify}} 
-            <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-top: 10px;">
+            <!-- <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0" style="margin-top: 10px;">
               <a
                 href="https://julijamartinkute.com/cv_julija_martinkute.pdf"
                 class="btn btn-outline-primary btn-sm lg:inline-block">
                 Résumé
               </a>
-            </div>
+            </div> -->
           </div>
           {{ $skills := .Params.skills }}
           {{ if gt (len $skills) 0 }}
